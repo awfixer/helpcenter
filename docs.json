@@ -176,7 +176,7 @@
             "dropdown": "AWFixer Cloud",
             "icon": "cloud",
             "pages": [
-              "aw-fixer-net/aw-fixer-cloud/overview",
+              "aw-fixer-net/aw-fixer-cloud/index",
               {
                 "group": "Goals",
                 "pages": [
@@ -372,7 +372,10 @@
             "dropdown": "Legal",
             "tabs": [
               {
-                "tab": "Compliance"
+                "tab": "Compliance",
+                "pages": [
+                  "articles/legal/compliance/index"
+                ]
               }
             ]
           },
