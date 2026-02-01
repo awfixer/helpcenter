@@ -429,6 +429,7 @@
           "careers/index",
           {
             "group": "Positions",
+            "hidden": true,
             "pages": [
               "careers/positions/index"
             ]
