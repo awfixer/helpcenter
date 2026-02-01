@@ -100,6 +100,7 @@
       {
         "tab": "FutureJS",
         "icon": "code",
+        "hidden": true,
         "dropdowns": [
           {
             "dropdown": "FutureJS Project",
@@ -158,6 +159,7 @@
       {
         "tab": "AWFixerNet",
         "icon": "globe",
+        "hidden": true,
         "dropdowns": [
           {
             "dropdown": "Overview",
@@ -277,7 +279,8 @@
         "icon": "megaphone",
         "dropdowns": [
           {
-            "dropdown": "Partners"
+            "dropdown": "Partners",
+            "hidden": true
           },
           {
             "dropdown": "Friends",
@@ -411,6 +414,7 @@
           },
           {
             "dropdown": "Informational",
+            "hidden": true,
             "tabs": [
               {
                 "tab": "History",
