@@ -258,6 +258,7 @@
           {
             "group": "Documents",
             "icon": "scroll",
+            "hidden": true,
             "pages": [
               "legal/documents/mission",
               "legal/documents/charter",
@@ -304,66 +305,14 @@
             ]
           },
           {
-            "dropdown": "Product Releases",
-            "icon": "alien-8bit",
-            "color": {
-              "light": "#AD1457",
-              "dark": "#AD1457"
-            },
-            "pages": [
-              "announcements/product-releases/overview",
-              {
-                "group": "FutureJS",
-                "pages": [
-                  "announcements/product-releases/future-js/overivew"
-                ]
-              },
-              {
-                "group": "AWFixerOS",
-                "pages": [
-                  "announcements/product-releases/aw-fixer-os/overview"
-                ]
-              },
-              {
-                "group": "AWFixerNet",
-                "icon": "globe",
-                "pages": [
-                  {
-                    "group": "AWFixer Network",
-                    "pages": [
-                      "announcements/product-releases/aw-fixer-net/aw-fixer-network/overview"
-                    ]
-                  },
-                  {
-                    "group": "AWFixer Cloud",
-                    "pages": [
-                      "announcements/product-releases/aw-fixer-net/aw-fixer-cloud/overview"
-                    ]
-                  },
-                  {
-                    "group": "SimpleCMS",
-                    "pages": [
-                      "announcements/product-releases/aw-fixer-net/simple-cms/overview"
-                    ]
-                  },
-                  {
-                    "group": "AWFixerVPN",
-                    "pages": [
-                      "announcements/product-releases/aw-fixer-net/aw-fixer-vpn/overview"
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "dropdown": "Changelog",
             "pages": [
               "announcements/changelog/overview"
             ]
           },
           {
-            "dropdown": "Releases"
+            "dropdown": "Releases",
+            "hidden": true
           }
         ]
       },
