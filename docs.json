@@ -254,6 +254,15 @@
             ]
           },
           {
+            "group": "Documents",
+            "icon": "scroll",
+            "pages": [
+              "legal/documents/mission",
+              "legal/documents/charter",
+              "legal/documents/manifesto"
+            ]
+          },
+          {
             "group": "subprocessor-agreements",
             "icon": "map",
             "hidden": true,
@@ -414,7 +423,13 @@
         "tab": "Careers",
         "icon": "hard-drive",
         "pages": [
-          "careers/index"
+          "careers/index",
+          {
+            "group": "Positions",
+            "pages": [
+              "careers/positions/index"
+            ]
+          }
         ]
       }
     ]
@@ -484,7 +499,7 @@
           },
           {
             "label": "Roadmap",
-            "href": "https://app.fizzy.do/6149847/public/boards/zGUDKaR1Vd28fCotteYd4V7q"
+            "href": "/roadmap"
           }
         ]
       },
