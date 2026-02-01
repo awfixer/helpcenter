@@ -512,23 +512,6 @@
         ]
       },
       {
-        "header": "FutureJS",
-        "items": [
-          {
-            "label": "FutureJS Development",
-            "href": "/future-js/future-js-development/overview"
-          },
-          {
-            "label": "FutureJS Hosting",
-            "href": "/future-js/future-js-hosting/overview"
-          },
-          {
-            "label": "FutureJS Project",
-            "href": "/future-js/future-js-project/overview"
-          }
-        ]
-      },
-      {
         "header": "AWFixerOS",
         "items": [
           {
@@ -546,31 +529,6 @@
           {
             "label": "AWOS Sync",
             "href": "/aw-fixer-os/aw-fixer-os-sync"
-          }
-        ]
-      },
-      {
-        "header": "AWFixer Net",
-        "items": [
-          {
-            "label": "Overview",
-            "href": "/awfixernet"
-          },
-          {
-            "label": "AWFixer Cloud",
-            "href": "/aw-fixer-net/aw-fixer-cloud"
-          },
-          {
-            "label": "AWFixer Network",
-            "href": "/aw-fixer-net/aw-fixer-network"
-          },
-          {
-            "label": "SimpleCMS",
-            "href": "/aw-fixer-net/simple-cms"
-          },
-          {
-            "label": "AWFixer VPN",
-            "href": "/aw-fixer-net/aw-fixer-vpn"
           }
         ]
       }
